@@ -18,6 +18,8 @@ limitations under the License.
 **`TypedPython (TPython)`** - это статически типизированная надстройка для языка `Python3`, однако он может существовать как самостоятельная единица.
 Написан преимущественно на **TypeScript**. Будет распространяться как исполняемый файл для операционных систем `Windows (10/11)`, `Linux (Ubuntu/Debin)` и `MacOS` (версии пока неизвестны), библиотека PyPi и пакет NPM. На данный момент проект находится на стадии разработки и не завершен до конца.
 
-<p align="center">
+# [Следите за новостями](https://github.com/TypedPython/.github/blob/main/profile/TPYTHON_NEWS_NAVIGATOR.md)
+
+<div align="center">
   <img src="https://github.com/TypedPython/.github/blob/main/assets/tpython-logo.png" />
-</p>
+</div>
